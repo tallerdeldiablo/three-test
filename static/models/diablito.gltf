@@ -1,0 +1,1432 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.7.33",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "KHR_draco_mesh_compression"
+    ],
+    "extensionsRequired" : [
+        "KHR_draco_mesh_compression"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "diablitotaller_merge_pintado_subdividido1_1_nuevo",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                2.41507887840271,
+                2.41507887840271,
+                2.41507887840271
+            ],
+            "translation" : [
+                -0.03828893601894379,
+                4.3893842697143555,
+                0
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "diablitotaller_merge_pintado_subdividido1",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                2.41507887840271,
+                2.41507887840271,
+                2.41507887840271
+            ],
+            "translation" : [
+                -0.03828893601894379,
+                4.3893842697143555,
+                0
+            ]
+        },
+        {
+            "mesh" : 2,
+            "name" : "diablitotaller_merge_pintado_5",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                2.41507887840271,
+                2.41507887840271,
+                2.41507887840271
+            ],
+            "translation" : [
+                -0.03828893601894379,
+                4.3893842697143555,
+                0
+            ]
+        },
+        {
+            "mesh" : 3,
+            "name" : "diablitotaller_merge_pintado_7",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                2.41507887840271,
+                2.41507887840271,
+                2.41507887840271
+            ],
+            "translation" : [
+                -0.03828893601894379,
+                4.3893842697143555,
+                0
+            ]
+        },
+        {
+            "mesh" : 4,
+            "name" : "diablitotaller_merge_pintado_9",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                2.41507887840271,
+                2.41507887840271,
+                2.41507887840271
+            ],
+            "translation" : [
+                -0.03828893601894379,
+                4.3893842697143555,
+                0
+            ]
+        },
+        {
+            "mesh" : 5,
+            "name" : "diablitotaller_merge_pintado_11",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                2.41507887840271,
+                2.41507887840271,
+                2.41507887840271
+            ],
+            "translation" : [
+                -0.03828893601894379,
+                4.3893842697143555,
+                0
+            ]
+        },
+        {
+            "mesh" : 6,
+            "name" : "diablitotaller_merge_pintado_15",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                2.41507887840271,
+                2.41507887840271,
+                2.41507887840271
+            ],
+            "translation" : [
+                -0.03828893601894379,
+                4.3893842697143555,
+                0
+            ]
+        },
+        {
+            "mesh" : 7,
+            "name" : "diablitotaller_merge_pintado_12",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                2.41507887840271,
+                2.41507887840271,
+                2.41507887840271
+            ],
+            "translation" : [
+                -0.03828893601894379,
+                4.3893842697143555,
+                0
+            ]
+        },
+        {
+            "mesh" : 8,
+            "name" : "diablitotaller_merge_pintado_16",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                2.41507887840271,
+                2.41507887840271,
+                2.41507887840271
+            ],
+            "translation" : [
+                -0.03828893601894379,
+                4.3893842697143555,
+                0
+            ]
+        },
+        {
+            "mesh" : 9,
+            "name" : "diablitotaller_merge_pintado_19",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                2.41507887840271,
+                2.41507887840271,
+                2.41507887840271
+            ],
+            "translation" : [
+                -0.03828893601894379,
+                4.3893842697143555,
+                0
+            ]
+        },
+        {
+            "mesh" : 10,
+            "name" : "diablitotaller_merge_pintado_20",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                2.41507887840271,
+                2.41507887840271,
+                2.41507887840271
+            ],
+            "translation" : [
+                -0.03828893601894379,
+                4.3893842697143555,
+                0
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "diablitotaller_merge_pintado_subdividido1_1_nuevo",
+            "normalTexture" : {
+                "index" : 0
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 1
+                }
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "diablitotaller_merge_pintado_subdividido1",
+            "normalTexture" : {
+                "index" : 2
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 3
+                }
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "diablitotaller_merge_pintado_5",
+            "normalTexture" : {
+                "index" : 4
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 5
+                }
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "diablitotaller_merge_pintado_7",
+            "normalTexture" : {
+                "index" : 6
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 7
+                }
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "diablitotaller_merge_pintado_9",
+            "normalTexture" : {
+                "index" : 8
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 9
+                }
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "diablitotaller_merge_pintado_11",
+            "normalTexture" : {
+                "index" : 10
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 11
+                }
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "diablitotaller_merge_pintado_15",
+            "normalTexture" : {
+                "index" : 12
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 13
+                }
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "diablitotaller_merge_pintado_12",
+            "normalTexture" : {
+                "index" : 14
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 15
+                }
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "diablitotaller_merge_pintado_16",
+            "normalTexture" : {
+                "index" : 16
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 17
+                }
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "diablitotaller_merge_pintado_19",
+            "normalTexture" : {
+                "index" : 18
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 19
+                }
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "diablitotaller_merge_pintado_20",
+            "normalTexture" : {
+                "index" : 20
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 21
+                }
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "diablitotaller_merge_pintado_subdividido1_1_nuevo",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TANGENT" : 2,
+                        "TEXCOORD_0" : 3,
+                        "COLOR_0" : 4
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 0,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TANGENT" : 2,
+                                "TEXCOORD_0" : 3,
+                                "COLOR_0" : 4
+                            }
+                        }
+                    },
+                    "indices" : 5,
+                    "material" : 0,
+                    "mode" : 4
+                }
+            ]
+        },
+        {
+            "name" : "diablitotaller_merge_pintado_subdividido1",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 6,
+                        "NORMAL" : 7,
+                        "TANGENT" : 8,
+                        "TEXCOORD_0" : 9,
+                        "COLOR_0" : 10
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 1,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TANGENT" : 2,
+                                "TEXCOORD_0" : 3,
+                                "COLOR_0" : 4
+                            }
+                        }
+                    },
+                    "indices" : 11,
+                    "material" : 1,
+                    "mode" : 4
+                }
+            ]
+        },
+        {
+            "name" : "diablitotaller_merge_pintado_5",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 12,
+                        "NORMAL" : 13,
+                        "TANGENT" : 14,
+                        "TEXCOORD_0" : 15,
+                        "COLOR_0" : 16
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 2,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TANGENT" : 2,
+                                "TEXCOORD_0" : 3,
+                                "COLOR_0" : 4
+                            }
+                        }
+                    },
+                    "indices" : 17,
+                    "material" : 2,
+                    "mode" : 4
+                }
+            ]
+        },
+        {
+            "name" : "diablitotaller_merge_pintado_7",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 18,
+                        "NORMAL" : 19,
+                        "TANGENT" : 20,
+                        "TEXCOORD_0" : 21,
+                        "COLOR_0" : 22
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 3,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TANGENT" : 2,
+                                "TEXCOORD_0" : 3,
+                                "COLOR_0" : 4
+                            }
+                        }
+                    },
+                    "indices" : 23,
+                    "material" : 3,
+                    "mode" : 4
+                }
+            ]
+        },
+        {
+            "name" : "diablitotaller_merge_pintado_9",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 24,
+                        "NORMAL" : 25,
+                        "TANGENT" : 26,
+                        "TEXCOORD_0" : 27,
+                        "COLOR_0" : 28
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 4,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TANGENT" : 2,
+                                "TEXCOORD_0" : 3,
+                                "COLOR_0" : 4
+                            }
+                        }
+                    },
+                    "indices" : 29,
+                    "material" : 4,
+                    "mode" : 4
+                }
+            ]
+        },
+        {
+            "name" : "diablitotaller_merge_pintado_11",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 30,
+                        "NORMAL" : 31,
+                        "TANGENT" : 32,
+                        "TEXCOORD_0" : 33,
+                        "COLOR_0" : 34
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 5,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TANGENT" : 2,
+                                "TEXCOORD_0" : 3,
+                                "COLOR_0" : 4
+                            }
+                        }
+                    },
+                    "indices" : 35,
+                    "material" : 5,
+                    "mode" : 4
+                }
+            ]
+        },
+        {
+            "name" : "diablitotaller_merge_pintado_15",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 36,
+                        "NORMAL" : 37,
+                        "TANGENT" : 38,
+                        "TEXCOORD_0" : 39,
+                        "COLOR_0" : 40
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 6,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TANGENT" : 2,
+                                "TEXCOORD_0" : 3,
+                                "COLOR_0" : 4
+                            }
+                        }
+                    },
+                    "indices" : 41,
+                    "material" : 6,
+                    "mode" : 4
+                }
+            ]
+        },
+        {
+            "name" : "diablitotaller_merge_pintado_12",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 42,
+                        "NORMAL" : 43,
+                        "TANGENT" : 44,
+                        "TEXCOORD_0" : 45,
+                        "COLOR_0" : 46
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 7,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TANGENT" : 2,
+                                "TEXCOORD_0" : 3,
+                                "COLOR_0" : 4
+                            }
+                        }
+                    },
+                    "indices" : 47,
+                    "material" : 7,
+                    "mode" : 4
+                }
+            ]
+        },
+        {
+            "name" : "diablitotaller_merge_pintado_16",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 48,
+                        "NORMAL" : 49,
+                        "TANGENT" : 50,
+                        "TEXCOORD_0" : 51,
+                        "COLOR_0" : 52
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 8,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TANGENT" : 2,
+                                "TEXCOORD_0" : 3,
+                                "COLOR_0" : 4
+                            }
+                        }
+                    },
+                    "indices" : 53,
+                    "material" : 8,
+                    "mode" : 4
+                }
+            ]
+        },
+        {
+            "name" : "diablitotaller_merge_pintado_19",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 54,
+                        "NORMAL" : 55,
+                        "TANGENT" : 56,
+                        "TEXCOORD_0" : 57,
+                        "COLOR_0" : 58
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 9,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TANGENT" : 2,
+                                "TEXCOORD_0" : 3,
+                                "COLOR_0" : 4
+                            }
+                        }
+                    },
+                    "indices" : 59,
+                    "material" : 9,
+                    "mode" : 4
+                }
+            ]
+        },
+        {
+            "name" : "diablitotaller_merge_pintado_20",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 60,
+                        "NORMAL" : 61,
+                        "TANGENT" : 62,
+                        "TEXCOORD_0" : 63,
+                        "COLOR_0" : 64
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 10,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TANGENT" : 2,
+                                "TEXCOORD_0" : 3,
+                                "COLOR_0" : 4
+                            }
+                        }
+                    },
+                    "indices" : 65,
+                    "material" : 10,
+                    "mode" : 4
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 1
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 3
+        },
+        {
+            "sampler" : 0,
+            "source" : 4
+        },
+        {
+            "sampler" : 0,
+            "source" : 5
+        },
+        {
+            "sampler" : 0,
+            "source" : 6
+        },
+        {
+            "sampler" : 0,
+            "source" : 7
+        },
+        {
+            "sampler" : 0,
+            "source" : 8
+        },
+        {
+            "sampler" : 0,
+            "source" : 9
+        },
+        {
+            "sampler" : 0,
+            "source" : 10
+        },
+        {
+            "sampler" : 0,
+            "source" : 11
+        },
+        {
+            "sampler" : 0,
+            "source" : 12
+        },
+        {
+            "sampler" : 0,
+            "source" : 13
+        },
+        {
+            "sampler" : 0,
+            "source" : 14
+        },
+        {
+            "sampler" : 0,
+            "source" : 15
+        },
+        {
+            "sampler" : 0,
+            "source" : 16
+        },
+        {
+            "sampler" : 0,
+            "source" : 17
+        },
+        {
+            "sampler" : 0,
+            "source" : 18
+        },
+        {
+            "sampler" : 0,
+            "source" : 19
+        },
+        {
+            "sampler" : 0,
+            "source" : 20
+        },
+        {
+            "sampler" : 0,
+            "source" : 21
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "Normal Map",
+            "uri" : "Normal%20Map.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Diffuse Texture",
+            "uri" : "Diffuse%20Texture.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Normal Map",
+            "uri" : "Normal%20Map-1.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Diffuse Texture",
+            "uri" : "Diffuse%20Texture-1.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Normal Map",
+            "uri" : "Normal%20Map-2.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Diffuse Texture",
+            "uri" : "Diffuse%20Texture-2.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Normal Map",
+            "uri" : "Normal%20Map-3.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Diffuse Texture",
+            "uri" : "Diffuse%20Texture-3.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Normal Map",
+            "uri" : "Normal%20Map-4.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Diffuse Texture",
+            "uri" : "Diffuse%20Texture-4.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Normal Map",
+            "uri" : "Normal%20Map-5.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Diffuse Texture",
+            "uri" : "Diffuse%20Texture-5.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Normal Map",
+            "uri" : "Normal%20Map-6.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Diffuse Texture",
+            "uri" : "Diffuse%20Texture-6.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Normal Map",
+            "uri" : "Normal%20Map-7.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Diffuse Texture",
+            "uri" : "Diffuse%20Texture-7.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Normal Map",
+            "uri" : "Normal%20Map-8.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Diffuse Texture",
+            "uri" : "Diffuse%20Texture-8.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Normal Map",
+            "uri" : "Normal%20Map-9.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Diffuse Texture",
+            "uri" : "Diffuse%20Texture-9.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Normal Map",
+            "uri" : "Normal%20Map-10.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Diffuse Texture",
+            "uri" : "Diffuse%20Texture-10.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "componentType" : 5126,
+            "count" : 13088,
+            "max" : [
+                2.344449758529663,
+                0.1735951006412506,
+                -0.4122791588306427
+            ],
+            "min" : [
+                -2.344449758529663,
+                -0.30486592650413513,
+                -0.7387910485267639
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 13088,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 13088,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 13088,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 13088,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 74544,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4037,
+            "max" : [
+                1.8140958547592163,
+                0.17140193283557892,
+                -0.4583163261413574
+            ],
+            "min" : [
+                -1.8142106533050537,
+                -0.364845335483551,
+                -0.9205166101455688
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4037,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4037,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4037,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 4037,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 23352,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4054,
+            "max" : [
+                0.7759016156196594,
+                1.0334268808364868,
+                -0.6850858330726624
+            ],
+            "min" : [
+                -0.7758719325065613,
+                -0.5720749497413635,
+                -2.7214760780334473
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4054,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4054,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4054,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 4054,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 23778,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4307,
+            "max" : [
+                0.5951335430145264,
+                0.5403945446014404,
+                0.18569302558898926
+            ],
+            "min" : [
+                -0.5951995253562927,
+                -0.3574332296848297,
+                -0.9941757917404175
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4307,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4307,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4307,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 4307,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 25314,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 3624,
+            "max" : [
+                0.6289394497871399,
+                0.8546392917633057,
+                -0.837435245513916
+            ],
+            "min" : [
+                -0.6289354562759399,
+                -0.5548423528671265,
+                -2.3946797847747803
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 3624,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 3624,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 3624,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 3624,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 21168,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4392,
+            "max" : [
+                1.0278598070144653,
+                0.5587367415428162,
+                -1.6919355392456055
+            ],
+            "min" : [
+                -1.0278598070144653,
+                0.0892375260591507,
+                -2.323335647583008
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4392,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4392,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4392,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 4392,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 26172,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4162,
+            "max" : [
+                0.83054119348526,
+                0.7198371291160583,
+                2.053948163986206
+            ],
+            "min" : [
+                -0.8305420279502869,
+                -0.42101624608039856,
+                1.3482837677001953
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4162,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4162,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4162,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 4162,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 23916,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 12436,
+            "max" : [
+                0.37180668115615845,
+                0.6708579659461975,
+                -1.2500874996185303
+            ],
+            "min" : [
+                -0.371806800365448,
+                0.36727476119995117,
+                -1.5537612438201904
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 12436,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 12436,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 12436,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 12436,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 73728,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 2989,
+            "max" : [
+                0.1422795057296753,
+                0.3629501760005951,
+                -0.5009966492652893
+            ],
+            "min" : [
+                -0.1422651708126068,
+                0.22629810869693756,
+                -0.8006514310836792
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 2989,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 2989,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 2989,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 2989,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 16824,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 9717,
+            "max" : [
+                0.32143867015838623,
+                0.44018813967704773,
+                -0.26534122228622437
+            ],
+            "min" : [
+                -0.32143861055374146,
+                -0.3514366149902344,
+                -0.37296491861343384
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 9717,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 9717,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 9717,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 9717,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 52992,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 8756,
+            "max" : [
+                0.7314217686653137,
+                0.6079319715499878,
+                1.8189419507980347
+            ],
+            "min" : [
+                -0.7305302619934082,
+                -0.4702504277229309,
+                -1.0058411359786987
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 8756,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 8756,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 8756,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 8756,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 49956,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 201513,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 66247,
+            "byteOffset" : 201516
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 66732,
+            "byteOffset" : 267764
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 69071,
+            "byteOffset" : 334496
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 62442,
+            "byteOffset" : 403568
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 78905,
+            "byteOffset" : 466012
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 64192,
+            "byteOffset" : 544920
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 82996,
+            "byteOffset" : 609112
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 52991,
+            "byteOffset" : 692108
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 128979,
+            "byteOffset" : 745100
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 159840,
+            "byteOffset" : 874080
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 1033920,
+            "uri" : "diablito.bin"
+        }
+    ]
+}
